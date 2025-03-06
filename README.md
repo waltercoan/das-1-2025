@@ -43,3 +43,8 @@ Monolito
     - Resolve problemas de concorrência
     - Permite compartilhamento de dados
     
+## Aula 06/03/2025
+- [Who Needs an Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
+- O que é arquitetura?
+- Qual o comportamento do arquiteto da "Matrix"?
+- Qual o comportamento do arquiteto ideal?
