@@ -1,5 +1,8 @@
 # Design e Arquitetura de Software 1
 
+## Repositório dos alunos
+- [Repos](https://gist.github.com/26a5ba60be98841ed8c3a3c17afadece.git)
+
 ## Configuração do GIT
 ```
 git config --global user.name "NOME DO USUARIO NO GITHUB"
