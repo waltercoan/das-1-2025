@@ -59,3 +59,10 @@ Monolito
 [Fundamentos da Arquitetura de Software](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/2%5B%3Bvnd.vst.idref%3Dcover%5D!/4/2/2%4051:2)
 
 - [Pensamento Arquitetônico](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/22%5B%3Bvnd.vst.idref%3Dcap2.xhtml%5D!/4)
+
+
+## Aula 19/03/2025
+- Trade-offs
+- Tópicos
+- Filas
+- Fan out
