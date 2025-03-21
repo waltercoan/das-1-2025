@@ -1,0 +1,32 @@
+# Maven specific
+target/
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot specific
+*.log
+*.tmp
+*.out
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse specific
+.project
+.classpath
+.settings/
+bin/
+
+# OS generated files
+Thumbs.db
+.DS_Store
