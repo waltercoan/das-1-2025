@@ -14,7 +14,7 @@ public class Publisher {
             .build();
 
         ServiceBusSenderClient senderClient = new ServiceBusClientBuilder()
-            .fullyQualifiedNamespace("sb-das12025-test-brazilsouth-001.servicebus.windows.net")
+            .fullyQualifiedNamespace("sb-das12025-test-brazilsouth.servicebus.windows.net")
             .credential(credential)
             .transportType(AmqpTransportType.AMQP_WEB_SOCKETS)
             .sender()
