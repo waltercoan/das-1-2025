@@ -25,6 +25,12 @@
             <version>1.8.0</version>
             <scope>compile</scope>
         </dependency>
+        <!-- Dependência para injeção de dependência com Guice -->
+        <dependency>
+            <groupId>com.google.inject</groupId>
+            <artifactId>guice</artifactId>
+            <version>5.1.0</version>
+        </dependency>
     </dependencies>
 
 </project>
