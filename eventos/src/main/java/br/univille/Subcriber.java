@@ -27,5 +27,6 @@ public class Subcriber {
             System.out.println("Received message: " + message.getBody().toString());
             receiverClient.complete(message);
         });
+        
     }
 }
