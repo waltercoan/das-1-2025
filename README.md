@@ -66,3 +66,9 @@ Monolito
 - Tópicos
 - Filas
 - Fan out
+
+## Aula 02/04/2025
+- Trabalho sobre tópicos (CHAT)
+
+## Aula 03/04/2025
+- [Filas](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions)
