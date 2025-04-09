@@ -72,3 +72,6 @@ Monolito
 
 ## Aula 03/04/2025
 - [Filas](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions)
+
+## Aula 09/04/2024
+- [Características Arquiteturais](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26%5B%3Bvnd.vst.idref%3Dcap4.xhtml%5D!/4)
