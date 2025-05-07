@@ -83,3 +83,8 @@ Monolito
 
 ## Aula 24/04/2025
 - [Estilo de Arquitetura em Camadas](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/40%5B%3Bvnd.vst.idref%3Dcap10.xhtml%5D!/4)
+
+# Segundo Bimestre
+
+## Aula 07/05/2025
+- [Estilo de Arquitetura em Pipeline](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/42%5B%3Bvnd.vst.idref%3Dcap11.xhtml%5D!/4)
