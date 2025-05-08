@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "",
+            "env": {
+                "KAFKA_SERVER": "XXX.servicebus.windows.net:9093",
+                "KAFKA_PASSWORD": ""
+            },
+        }
+    ]
+}
