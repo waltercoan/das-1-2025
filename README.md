@@ -88,3 +88,6 @@ Monolito
 
 ## Aula 07/05/2025
 - [Estilo de Arquitetura em Pipeline](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/42%5B%3Bvnd.vst.idref%3Dcap11.xhtml%5D!/4)
+
+## Aula 08/05/2025
+- Implementação do cliente Kafka

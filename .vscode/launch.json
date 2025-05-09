@@ -6,7 +6,7 @@
             "request": "launch",
             "mainClass": "",
             "env": {
-                "KAFKA_SERVER": "XXX.servicebus.windows.net:9093",
+                "KAFKA_SERVER": "",
                 "KAFKA_PASSWORD": ""
             },
         }
