@@ -93,6 +93,7 @@ Monolito
 - Implementação do cliente Kafka
 
 ## Aula 14/05/2025
+- [Node-red](https://nodered.org/docs/getting-started/)
 - [Arquitetura Microkernel](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/44%5B%3Bvnd.vst.idref%3Dcap12.xhtml%5D!/4)
 
 
