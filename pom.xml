@@ -11,6 +11,9 @@
     <dependencies>
         <dependency>eventos</dependency>
         <dependency>pipeline</dependency>
+        <dependency>microkernel-interface</dependency>
+        <dependency>microkernel-plugin</dependency>
+        <dependency>microkernel-kernel</dependency>
     </dependencies>
 
 </project>
