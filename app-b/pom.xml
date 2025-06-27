@@ -40,6 +40,22 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>io.dapr</groupId>
+			<artifactId>dapr-sdk</artifactId>
+			<version>1.14.1</version>
+		</dependency>
+		<dependency>
+			<groupId>io.dapr</groupId>
+			<artifactId>dapr-sdk-springboot</artifactId>
+			<version>1.14.1</version>
+		</dependency>
+		<dependency>
+			<groupId>io.dapr.spring</groupId>
+			<artifactId>dapr-spring-boot-starter</artifactId>
+			<version>0.14.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>

@@ -8,6 +8,7 @@ import io.dapr.client.domain.HttpExtension;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.http.ResponseEntity;
 
 @RestController
@@ -31,4 +32,22 @@ public class HomeController {
 
         return ResponseEntity.ok().body("Hello from App A");
     }
+
+    @PostMapping("/startaasync")
+    public ResponseEntity startAAsync(){
+        System.out.println("App A Started");
+
+        try(DaprClient daprClient = new DaprClientBuilder().build()){
+            var mensagem = "Hello from app A";
+
+            daprClient.publishEvent("pubsub-dapr","topicdapr", mensagem).block();
+
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+        return ResponseEntity.ok().body("App A Started");
+    }
+
+
 }
